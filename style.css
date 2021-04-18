@@ -1,0 +1,28 @@
+body{
+  background-color: #16425b;
+  color: white;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  height:100%;
+  line-height: 2rem;
+}
+.description{
+  line-height: 4rem;
+}
+.grid{
+  width: 480px;
+  height: 300px;
+  margin: auto;
+}
+.grid>img{
+  padding: 10px;
+}
+.hide{
+  visibility: hidden;
+}
+.hide-grid{
+  display: none;
+}
+.visible-grid{
+  display: block;
+}
